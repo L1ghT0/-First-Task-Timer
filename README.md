@@ -1,6 +1,6 @@
 # Timer
 
-![Timer](/Screenshots/Timer.png)
+![Timer](/ScreenShots/Timer.png)
 
 
 ## Available on gh-pages:
