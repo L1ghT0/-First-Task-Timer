@@ -5,7 +5,7 @@
 
 ## Available on gh-pages:
 
-https://l1ght0.github.io/-First-Task-Timer/
+https://l1ght0.github.io/Timer/
 
 
 
